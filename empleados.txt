@@ -1,0 +1,13 @@
+Cuantos empleados  desea registrar
+2
+Tabla de datos obtenidos
+Empleado No 1
+Nombre:LENIN
+ Nacio el: 28/11/2001
+Tiene : 19 años
+
+Empleado No 2
+Nombre:JUAN
+ Nacio el: 14/10/1998
+Tiene : 22 años
+
