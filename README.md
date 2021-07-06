@@ -37,11 +37,11 @@ Otro tipo de excepciones que existe en Java son las comprobadas, estas hacen que
 
 Una forma simplificada de las excepciones es la siguiente estructura:
 
-try { 
-"Codigo"que"abre"y"trata"el"fichero 
-} catch (IOExcepction ex) { 
- "Código"que"trata"el"error 
-}
+	try { 
+	"Codigo"que"abre"y"trata"el"fichero 
+	} catch (IOExcepction ex) { 
+	 "Código"que"trata"el"error 
+	}
 
 Como podemos observar esta estructura intenta (try) ejecutar las instrucciones desarrolladas, pero en caso de producirse un error en el tratamiento de los ficheros se lanza una IOExcepction, la cual atrapa (catch) ese error y ejecuta el código de corrección. 
 
@@ -115,7 +115,7 @@ Ejemplo:
 
 Para crear un objeto PrintWriter directamente de un objeto FileWriter se lo hace mediante la siguiente manera:
 
-salida = new PrintWriter("c:/ficheros/datos.txt");
+	salida = new PrintWriter("c:/ficheros/datos.txt");
 
 De esta manera, si el fichero no existe, se crea. una vez creado el objeto podemos utilizar print( ), println( ) y printf( )  para escribir en el fichero como si fuese a escribirse lo que se muestra en pantalla.
 El método flush( ) hace que se escriban en el fichero los datos que puedan haber en el buffer de salida y el método close( ) cierra la conexión con el fichero y libera los recursos que está usando la conexión.
