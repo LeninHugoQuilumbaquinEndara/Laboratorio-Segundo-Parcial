@@ -47,19 +47,19 @@ Como podemos observar esta estructura intenta (try) ejecutar las instrucciones d
 
 **Operaciones con ficheros de texto en Java**
 
-	**Apertura:** El programa abre el fichero y se prepara para leerlo o escribirlo. Suele “reservar” el fichero para sí. 
+	Apertura: El programa abre el fichero y se prepara para leerlo o escribirlo. Suele “reservar” el fichero para sí. 
 
-	**Cierre:** Indica que se ha finalizado con las operaciones sobre el fichero. Libera el fichero.
+	Cierre: Indica que se ha finalizado con las operaciones sobre el fichero. Libera el fichero.
 
-	**Lectura:** Lee el fichero o una de sus partes.
+	Lectura: Lee el fichero o una de sus partes.
 
-	**Escritura:** Permite escribir en el fichero, ya sea añadiendo datos o sobrescribiendo los ya existentes. 
+	Escritura: Permite escribir en el fichero, ya sea añadiendo datos o sobrescribiendo los ya existentes. 
 
-	**Ejecución:** Similar a la lectura, pero utiliza los datos del fichero para ejecutar un software. 
+	Ejecución: Similar a la lectura, pero utiliza los datos del fichero para ejecutar un software. 
 
-	**Creación:** Crea un nuevo fichero con un nombre, extensión y ruta determinados.
+	Creación: Crea un nuevo fichero con un nombre, extensión y ruta determinados.
 
-	**Eliminación:** Elimina un fichero determinado
+	Eliminación: Elimina un fichero determinado
 
 **Creación y cierre de ficheros de texto en Java**
 
