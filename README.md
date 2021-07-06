@@ -22,7 +22,28 @@ nacimiento.
 
 #### Capturas de pantalla de compilacion del programa y creacion de archivos .txt
 
+* Creacion del programa principal 
 
+Programa que permita grabar en un archivo de texto el cálculo de la edad que tiene cada empleado de una empresa a partir de su fecha de
+nacimiento.
+
+![image](https://user-images.githubusercontent.com/84789076/124529697-be441100-ddd0-11eb-9fda-97dd77e91482.png)
+
+![image](https://user-images.githubusercontent.com/84789076/124529732-cbf99680-ddd0-11eb-98b6-f8e7567e1a59.png)
+
+* Compilaciones 
+
+![image](https://user-images.githubusercontent.com/84789076/124529765-d87def00-ddd0-11eb-99b8-f8db422126c2.png)
+
+![image](https://user-images.githubusercontent.com/84789076/124529834-ee8baf80-ddd0-11eb-8d1d-b1d220094819.png)
+
+* Carpeta donde se guardo la creacion del archivo .txt
+
+![image](https://user-images.githubusercontent.com/84789076/124529900-19760380-ddd1-11eb-8d3a-3b5b8b685dd1.png)
+
+* Muestra de datos ya en documento .txt guardados
+
+![image](https://user-images.githubusercontent.com/84789076/124529954-36aad200-ddd1-11eb-8c81-c7bda2e60cce.png)
 
 **CONCLUSIONES.-**
 
