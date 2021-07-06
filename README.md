@@ -8,7 +8,7 @@
     Carrera: Electrónica y Automatización
     Asignatura: Programación Orientada a Objetos 
     Docente: Ing. Cesar Osorio
-    Tema: Control de Versiones
+    Tema: Persistencia de Datos en JAVA
     
    **OBJETIVOS.-**
    
