@@ -41,7 +41,7 @@ nacimiento.
 
 ![image](https://user-images.githubusercontent.com/84789076/124529900-19760380-ddd1-11eb-8d3a-3b5b8b685dd1.png)
 
-* Muestra de datos ya en documento .txt guardados
+* Muestra de datos ya en documento .txt guardados y compilados
 
 ![image](https://user-images.githubusercontent.com/84789076/124529954-36aad200-ddd1-11eb-8c81-c7bda2e60cce.png)
 
