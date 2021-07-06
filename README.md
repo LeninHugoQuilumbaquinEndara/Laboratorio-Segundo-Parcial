@@ -38,7 +38,13 @@ nacimiento.
 
 * Conocer y poner en práctica todo lo aprendido en clases para poder crear un programa que contenga archivos tx, y si de ser necesario consultar en lugares de internet recomendados para tener  mayor conocimiento y capacidad al ejecutar estos archivos.
 
-**Referencias**
+**REFERENCIAS **
+
+* Creacion de txt con scanner en Java. (17 de Octubre de 2017). Obtenido de https://es.stackoverflow.com/questions/97144/creaci%c3%b3n-de-txt-con-scanner-en-java
+
+* JAVA-Crear archivos de texto. (1 de Agosto de 2019). Obtenido de https://decodigo.com/java-crear-archivos-de-texto#:~:text=Crear%20archivos%20de%20texto%20usando.%20FileWriter.%20y.%20BufferWriter.,segunda%20forma%20es%20usando%20PrintWriter%20que%20te%20
+
+
 
 
 
